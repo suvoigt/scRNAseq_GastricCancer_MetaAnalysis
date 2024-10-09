@@ -20,7 +20,7 @@ Results:
 
 The analysis revealed distinct immune cell composition differences across tumor types within the tumor microenvironment (TME). Diffuse-type tumors had higher levels of B cells and plasma cells compared to intestinal-type tumors, while mixed-type tumors showed increased T cells and mast cells relative to diffuse-type tumors. Additionally, macrophages were more abundant in intestinal-type tumors than in mixed-type tumors. In advanced stages, both diffuse- and intestinal-type tumors exhibited increased macrophage presence. Advanced intestinal-type tumors also showed a rise in monocytes, with a decrease in B cells and plasma cells, whereas diffuse-type tumors had fewer mast cells in advanced stages. (see notebook *NB3_compositional_and_DE_analyses.ipynb*)
 
-<img src='figures/sccoda_barplot.png' alt='compositional_analysis_barplot' width='500'/>
+<img src='figures/sccoda_barplot.png' alt='compositional_analysis_barplot' width='600'/>
 
 *Figure 1. Differences in immune cell composition across sample types.*
 
