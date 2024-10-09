@@ -1,0 +1,159 @@
+﻿Marker,Group,Cell type,Reference,Sort
+CDH1,epithelial,Epithelial cell,Kumar2022,0
+CAPN8,epithelial,Gastric mucous cell,Öling2024,1
+LGALS4,epithelial,Gastric mucous cell,Öling2024,1
+VILL,epithelial,Gastric mucous cell,Öling2024,1
+MUC6,epithelial,Gland mucous cell (Neck Cell),Sathe2020,2
+TFF2,epithelial,Gland mucous cell (Neck Cell),Sathe2020,2
+GKN1,epithelial,Surface mucous cell (Pit Cell),Busslinger2021,2
+GKN2,epithelial,Surface mucous cell (Pit Cell),Busslinger2021,2
+MUC5AC,epithelial,Surface mucous cell (Pit Cell),Kumar2022,2
+SLC5A,epithelial,Surface mucous cell (Pit Cell),Busslinger2021,2
+TFF1,epithelial,Surface mucous cell (Pit Cell),Kumar2022,2
+AZGP1,epithelial,Chief cell,Öling2024,3
+LIPF,epithelial,Chief cell,Kumar2022_Öling2024,3
+PGA3,epithelial,Chief cell,Kumar2022,3
+PGA4,epithelial,Chief cell,Zhang2019,3
+PGC,epithelial,Chief cell,Öling2024,3
+ATP4A,epithelial,Parietal cell,Öling2024,3
+ATP4B,epithelial,Parietal cell,Öling2024,3
+GIF,epithelial,Parietal cell,Sathe2020,3
+MFSD4A,epithelial,Parietal cell,Öling2024,3
+ARX,epithelial,Enteroendocrine cell,Öling2024,4
+CHGA,epithelial,Enteroendocrine cell,Sathe2020,4
+GAST,epithelial,Enteroendocrine cell,Sathe2020,4
+HDC,epithelial,Enteroendocrine cell,Busslinger2021,4
+INSM1,epithelial,Enteroendocrine cell,Öling2024,4
+SST,epithelial,Enteroendocrine cell,Sathe2020,4
+ST18,epithelial,Enteroendocrine cell,Öling2024,4
+GHRL,epithelial,Enteroendocrine cell ,Busslinger2021,4
+SST,epithelial,Enteroendocrine cell - D cell,Zhang2021,4
+GAST,epithelial,Enteroendocrine cell - G cell,Zhang2019,4
+GHRL,epithelial,Enteroendocrine cell - X cell,Zhang2020,4
+MKI67,epithelial,Isthmus cell,Busslinger2021,5
+STMN1,epithelial,Isthmus cell,Busslinger2021,5
+SH2D6,epithelial,Tuft cell,Busslinger2021,5
+TRPM5,epithelial,Tuft cell,Busslinger2021,5
+EPCAM,epithelial,Gastric adenocarcinoma cell,Sathe2020,6
+TFF3,epithelial,Gastric adenocarcinoma cell,Sathe2020,6
+CDX1,epithelial,Intestinal cell (gastric IM),Kumar2022,6
+CDX2,epithelial,Intestinal cell (gastric IM),Kumar2022,6
+REG4,epithelial,Intestinal cell (gastric IM),Kumar2022,6
+TFF3,epithelial,Intestinal cell (gastric IM),Kumar2022,6
+CD19,lymphoid,B cell,Sathe2020,0
+CD79A,lymphoid,B cell,Jeong2021,0
+CD79B,lymphoid,B cell,Sathe2020,0
+MS4A1,lymphoid,B cell,Kumar2022,0
+MZB1,lymphoid,B cell,Jeong2021,0
+IGKC,lymphoid,Plasma cell,Öling2024,1
+IGLC1,lymphoid,Plasma cell,Öling2024,1
+JCHAIN,lymphoid,Plasma cell,Öling2024,1
+SDC1,lymphoid,Plasma cell,Sathe2020,1
+TNFRSF17,lymphoid,Plasma cell,Kumar2022,1
+CD2,lymphoid,T cell,Öling2024,2
+CD3D,lymphoid,T cell,Jeong2021,2
+CD3E,lymphoid,T cell,Öling2024,2
+CD3E,lymphoid,T cell,Sathe2020,2
+CD3G,lymphoid,T cell,Öling2024,2
+CD3G,lymphoid,T cell,Sathe2020,2
+CCR7,lymphoid,CD4+ T cell ,Kumar2022,3
+CD4,lymphoid,CD4+ T cell ,Hoft2022,3
+STAT4,lymphoid,CD4+ T cell ,Kumar2022,3
+CD8A,lymphoid,CD8+ T cell,Kumar2022,3
+CD8B,lymphoid,CD8+ T cell,Sathe2020,3
+GZMH,lymphoid,CD8+ T cell,Kumar2022,3
+GZMM,lymphoid,CD8+ T cell,Kumar2022,3
+NKG7,lymphoid,CD8+ T cell,Kumar2022,3
+FOXP3,lymphoid,Regulatory T cell ,Sathe2020,4
+IL2RA,lymphoid,Regulatory T cell ,Kumar2022,4
+IL2RA,lymphoid,Regulatory T cell ,Sathe2020,4
+STAT3,lymphoid,Regulatory T cell ,Kumar2022,4
+CCR7,lymphoid,Naïve  or central memory  T cell,Sathe2020,5
+SELL,lymphoid,Naïve  or central memory  T cell,Sathe2020,5
+CD69,lymphoid,Tissue resident effector memory T cell,Sathe2020,5
+ITGA1,lymphoid,Tissue resident effector memory T cell,Sathe2020,5
+ITGAE,lymphoid,Tissue resident effector memory T cell,Sathe2020,5
+CTSW,lymphoid,Cytotoxic cell,Sathe2020,6
+GNLY,lymphoid,Cytotoxic cell,Sathe2020,6
+GZMA,lymphoid,Cytotoxic cell,Sathe2020,6
+GZMB,lymphoid,Cytotoxic cell,Sathe2020,6
+GZMH,lymphoid,Cytotoxic cell,Sathe2020,6
+KLRB1,lymphoid,Cytotoxic cell,Sathe2020,6
+KLRD1,lymphoid,Cytotoxic cell,Sathe2020,6
+KLRK1,lymphoid,Cytotoxic cell,Sathe2020,6
+NKG7,lymphoid,Cytotoxic cell,Sathe2020,6
+PRF1,lymphoid,Cytotoxic cell,Sathe2020,6
+KLRD1,lymphoid,NK cell,Kumar2022,6
+GNLY,lymphoid,NK cell,Sathe2020,7
+NCR1,lymphoid,NK cell,Sathe2020,7
+NKG7,lymphoid,NK cell,Sathe2020,7
+XCL2,lymphoid,NK cell,Sathe2020,7
+GATA3,lymphoid,ILC2,Sathe2020,8
+IL1R1,lymphoid,ILC2,Sathe2020,8
+RORA,lymphoid,ILC2,Sathe2020,8
+KIFC1,mitotic,Mitotic cell ,Öling2024,0
+NCAPG,mitotic,Mitotic cell ,Öling2024,0
+NCAPH,mitotic,Mitotic cell ,Öling2024,0
+CD68,myeloid,Myeloid cell,Jeong2021,0
+CD86,myeloid,Myeloid cell,Jeong2021,0
+CD14,myeloid,Monocyte/Macrophage,Sathe2020,1
+FCGR3A,myeloid,Monocyte/Macrophage,Sathe2020,1
+C1QB,myeloid,Macrophage,Öling2024,2
+CD163,myeloid,Macrophage,Kumar2022,2
+CD68,myeloid,Macrophage,Sathe2020,2
+CD68,myeloid,Macrophage,Zhang2021,2
+FCGR3A,myeloid,Macrophage,Öling2024,2
+ITGB2,myeloid,Macrophage,Öling2024,2
+ADAMDEC1,myeloid,Dendritic cell,Hoft2022,3
+CD1C,myeloid,Dendritic cell,Hoft2022,3
+CD83,myeloid,Dendritic cell,Sathe2020,3
+CLEC4C,myeloid,Dendritic cell,Sathe2020,3
+HLA-DQA2,myeloid,Dendritic cell,Sathe2020,3
+ID2,myeloid,Dendritic cell,Sathe2020,3
+IL3RA,myeloid,Dendritic cell,Sathe2020,3
+IRF4,myeloid,Dendritic cell,Sathe2020,3
+PLD4,myeloid,Dendritic cell,Kumar2022,3
+CPA3,myeloid,Mast cell,Jeong2021,3
+KIT,myeloid,Mast cell,Kumar2022,3
+MS4A2,myeloid,Mast cell,Sathe2020,3
+TPSAB1,myeloid,Mast cell,Jeong2021,3
+TPSB2,myeloid,Mast cell,Sathe2020,3
+CCKBR,stem_cell,Stem cell,Zhang2019,0
+LGR5,stem_cell,Stem cell,Sathe2020,0
+LGR5,stem_cell,Stem cell,Zhang2019,0
+OLFM4,stem_cell,Stem cell,Zhang2019,0
+SOX2,stem_cell,Stem cell,Zhang2019,0
+TROY,stem_cell,Stem cell,Sathe2020,0
+ENG,stromal,Endothelial cell,Jeong2021,4
+MCAM,stromal,Endothelial cell,Zhang2019,4
+PECAM1,stromal,Endothelial cell,Sathe2020,4
+PLVAP,stromal,Endothelial cell,Kumar2022,4
+SELE,stromal,Endothelial cell,Sathe2020,4
+SELP,stromal,Endothelial cell,Sathe2020,4
+VWF,stromal,Endothelial cell,Jeong2021,4
+ACKR1,stromal,Endothelial cell (venular),Kumar2022,4
+STF2,stromal,Pericyte,Kumar2022,4
+PDGFRB,stromal,Pericyte ,Sathe2020,4
+RGS5,stromal,Pericyte ,Sathe2020,4
+COL1A2,stromal,Fibroblast,Jeong2021,5
+COL3A1,stromal,Fibroblast,Zhang2019,5
+COL6A1,stromal,Fibroblast,Zhang2019,5
+DCN,stromal,Fibroblast,Kumar2022,5
+FAP,stromal,Fibroblast,Zhang2019,5
+FN1,stromal,Fibroblast,Kumar2022,5
+LUM,stromal,Fibroblast,Kumar2022,5
+PDPN,stromal,Fibroblast,Zhang2019,5
+STF1,stromal,Fibroblast,Kumar2022,5
+STF3,stromal,Fibroblast,Kumar2022,5
+THY1,stromal,Fibroblast,Jeong2021,5
+CAV1,stromal,Fibroblast/Myofibroblast,Sathe2020,5
+COL14A1,stromal,Fibroblast/Myofibroblast,Sathe2020,5
+COL1A1,stromal,Fibroblast/Myofibroblast,Sathe2020,5
+ACTN2,stromal,Smooth muscle cell,Zhang2019,5
+MYH2,stromal,Smooth muscle cell,Zhang2019,5
+MYL2,stromal,Smooth muscle cell,Zhang2019,5
+ACTA2,stromal,Smooth muscle cell/Myofibroblast,Sathe2020,5
+POSTN,stromal,eCAF,Hoft2022,6
+CXCL1,stromal,iCAF,Hoft2022,6
+CXCL12,stromal,iCAF,Hoft2022,6
+IL6,stromal,iCAF,Hoft2022,6
