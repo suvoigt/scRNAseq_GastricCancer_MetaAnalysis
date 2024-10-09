@@ -52,3 +52,6 @@ For more details, refer to the following scripts and notebooks:
 - **NB1_integration.ipynb**: Data integration to alleviate batch effects.
 - **NB2_annotation.ipynb**: Cell type annotation.
 - **NB3_compositional_and_DE_analyses.ipynb**: Compositional analysis and differential expression analysis (DEA).
+
+Notebooks were run in the [Google Colab](https://colab.research.google.com/) environment.
+
