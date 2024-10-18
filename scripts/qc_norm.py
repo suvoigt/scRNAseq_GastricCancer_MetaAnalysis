@@ -3,7 +3,6 @@ import argparse
 import numpy as np
 import pandas as pd
 
-
 import scanpy as sc
 from scipy.io import mmread
 from scipy.sparse import csr_matrix, issparse
@@ -13,7 +12,6 @@ from rpy2.robjects.packages import importr
 from rpy2.robjects import pandas2ri, numpy2ri
 from rpy2.robjects.vectors import IntVector, FloatVector, ListVector
 import anndata
-
 
 # activate automatic dataframe/array python to R conversion 
 pandas2ri.activate()
