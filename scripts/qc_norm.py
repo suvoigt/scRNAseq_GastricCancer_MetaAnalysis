@@ -397,20 +397,6 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-
-
-
-    parser = argparse.ArgumentParser(description='')
-
-    parser.add_argument('--data', type=_check_path, required=True, help='Path to raw data.')
-    parser.add_argument('--metadata', type=_check_path, required=True, help='Path to .csv with metadata with first column including filenames.')
-    parser.add_argument('--transpose', action='store_true', help='Flag to set transpose to True, if input matrix is of format genes x cells and needs to be transposed.')
-    parser.add_argument('--filter_empty_drops', action='store_true', help='Flag to set filter_empty_drops to True, if input matrix needs to be filtered to remove empty droplets.')
-    parser.add_argument('--conversion', type=_check_path, help='Path to the conversion table file (optional).')
-       
-
-    args = parser.parse_args()
-
     # main
     os.chdir(args.data)
     metadata = pd.read_csv(args.metadata, index_col=0)
